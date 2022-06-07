@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hai</folder>
+	<filename>gita_hai_cropped_1.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Hai\gita_hai_cropped_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hai</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>215</ymin>
+			<xmax>239</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

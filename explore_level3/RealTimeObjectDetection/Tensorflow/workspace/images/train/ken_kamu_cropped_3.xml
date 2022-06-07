@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kamu</folder>
+	<filename>ken_kamu_cropped_3.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Kamu\ken_kamu_cropped_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>242</ymin>
+			<xmax>364</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

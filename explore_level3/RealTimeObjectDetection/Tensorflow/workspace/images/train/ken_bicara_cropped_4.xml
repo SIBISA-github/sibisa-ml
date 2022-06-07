@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bicara</folder>
+	<filename>ken_bicara_cropped_4.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Bicara\ken_bicara_cropped_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>223</ymin>
+			<xmax>443</xmax>
+			<ymax>483</ymax>
+		</bndbox>
+	</object>
+</annotation>

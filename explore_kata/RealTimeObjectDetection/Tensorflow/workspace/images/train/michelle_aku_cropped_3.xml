@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Aku</folder>
+	<filename>michelle_aku_cropped_3.jpg</filename>
+	<path>D:\ITHB\Google Bangkit 2021\Final Project\Dataset\DATA BERSIH\Aku\michelle_aku_cropped_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aku</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>213</ymin>
+			<xmax>386</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>
