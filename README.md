@@ -5,7 +5,7 @@
 * [Description](#description)
 * [Datasets](#datasets)
 * [Architecture](#architecture)
-* [Link to papers related](#link-to-papers)
+* [Link to papers related](#link-to-papers-related)
 
 ## Description
 This machine learning model is built to predict the sign language of the user. The model's task is to detect and also classify the hand gestures of the user. The model is built based on tensorflow and keras.
