@@ -8,7 +8,7 @@
 * [Link to papers related](#link-to-papers-related)
 
 ## Description
-This machine learning model is built to predict the sign language of the user. The model's task is to detect and also classify the hand gestures of the user. The model is built based on tensorflow and keras.
+This machine learning model is built to predict the sign language of the user. The model's task is to detect and also classify the hand gestures of the user. The model is built based on tensorflow and keras. There are 3 models in this repository, each model built with the same architecture but with different tasks: detect vocal chaacters, detect top 5 words in Indonesia, and detect vocal + top 3 words in Indonesia.
 
 ## Datasets
 The dataset is gathered from kaggle and gathered by our team. These are the following links:
